@@ -22,7 +22,7 @@
                         key-position = <40 41>;
                         bindings = <&kp DEL>;
                 };
-        }
+        };
         keymap {
                 compatible = "zmk,keymap";
 
