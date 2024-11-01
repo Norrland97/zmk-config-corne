@@ -13,13 +13,13 @@
                 compatible = "zmk,combos";
                 combo_alt {
                         timeout-ms = <50>;
-                        key-position = <37 38>;
+                        key-positions = <37 38>;
                         bindings = <&kp LALT>;
                         slow-release = "true";
                 };
                 combo_del {
                         timeout-ms = <50>;
-                        key-position = <40 41>;
+                        key-positions = <40 41>;
                         bindings = <&kp DEL>;
                 };
         };
