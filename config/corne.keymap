@@ -15,7 +15,7 @@
                         timeout-ms = <50>;
                         key-positions = <37 38>;
                         bindings = <&kp LALT>;
-                        slow-release = "true";
+                        slow-release = true;
                 };
                 combo_del {
                         timeout-ms = <50>;
